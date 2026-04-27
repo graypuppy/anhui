@@ -1,0 +1,6 @@
+{
+  "name": "Purchase Platform Dialog",
+  "description": "A complex dialog interface for purchasing or renewing platform subscriptions, featuring a sidebar city selector, dynamic pricing calculation, and styled form elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
